@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.in28minutes.microservices</groupId>
-	<artifactId>camel-microservice-a</artifactId>
+	<artifactId>poc-camel-route</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>camel-microservice-a</name>
 	<description>Demo project for Camel</description>
